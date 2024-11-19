@@ -84,13 +84,47 @@ Execute the program using runserver command.
                 <td>19AI414</td>
             </tr>
         </table>
+        <br>
+        <table border="2" cellpadding="5" align="center" bgcolor="pink">
+            <tr>
+                <th>S.No.</th>
+                <th>SUBJECT CODE</th>
+                <th>SUBJECT NAME</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <th>19AI414</th>
+                <td>Fundamentals of web app development</td>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>19EY708</th>
+                <td>Career development skills</td>
+            </tr>
+            <tr>
+                <th>3</th>
+                <th>19AI403</th>
+                <td>Introduction to data science</td>
+            </tr>
+            <tr>
+                <th>4</th>
+                <th>19AI301C</th>
+                <td>Python and linear algebra</td>
+            </tr>
+            <tr>
+                <th>5</th>
+                <th>SH3214</th>
+                <td>Physics for quantum computing</td>
+            </tr>
+        </table>
     </body>
 </html>
 '''
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-18 204553.png>)
+![Screenshot 2024-11-19 184034](https://github.com/user-attachments/assets/e9dc0224-a338-4aa0-a36c-689a4c39b795)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
